@@ -1,0 +1,5 @@
+python main.py -u wordpress.com -w dirb.txt
+python main.py -u tietomyrsky.fi  
+python main.py -u testphp.vulnweb.com/search.php -w xss.txt  --para= test
+ python main.py -u testphp.vulnweb.com/search.php -w sql.txt  --para=search
+ 
